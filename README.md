@@ -8,6 +8,7 @@ And If It Falls It Plays A Sound Like Scream
   Not Require Any Explicit Permission
 ##  Requirements :
    1.Min Android Version Should Be : 4.0 <br/>
-   2.Gravity Sensor
-   3.Accelarometer
+   2.Gravity Sensor<br/>
+   3.Accelarometer<br/>
+## SoundClip Source : freesoung.org
 ## This App Is NOT A Virus
