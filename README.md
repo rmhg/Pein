@@ -1,6 +1,6 @@
 # Pein
 App is Meant To Pull Pranks..<br/>
-<a href="https://github.com/rmhg/Pein/raw/master/Android%20Packags%20(.apk)/Pein.apk">Click To Download App</a>
+<a href="https://github.com/rmhg/Pein/raw/master/Android%20Packags%20(.apk)/Release/Peinit.apk">Click To Download App</a>
 ## Working :
 App Play Sound If phone Is Moved From A Horizontal Table,
 Sound Can Be Fart, Cough etc.
